@@ -150,6 +150,4 @@ Vithea/
 
 ---
 
-## License
 
-See repository license file (if present).
